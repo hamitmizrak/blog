@@ -26,6 +26,7 @@ img {
 
 ul li {
     list-style-type: none;
+    text-decoration: none;
 }
 
 .text-header {
@@ -136,7 +137,6 @@ ul li {
 
 ul li i {
     margin-right: .6rem;
-    ;
 }
 
 #social i {
